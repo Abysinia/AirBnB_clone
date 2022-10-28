@@ -1,6 +1,6 @@
 # AIRBNB project
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221028T004200Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=779f7aea03440be589aaab51768343d8cf75d28040db1a49ce7dd7e6f816f524" width="100%" style="max-width: 300px;"/>
+<img src="./image/hbnb.png" width="100%" style="max-width: 300px;"/>
 ## Background Context
 
 ## Welcome to the AirBnB clone project!
