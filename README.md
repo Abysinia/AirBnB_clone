@@ -1,7 +1,8 @@
 # AIRBNB project
-
+<p style="max-width: 300px; background: #fff;">
 <img src="./image/hbnb.png" width="100%" style="max-width: 300px; background: #fff;"/>
-## Background Context
+</p>
+ ## Background Context
 
 ## Welcome to the AirBnB clone project!
 
