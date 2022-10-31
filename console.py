@@ -81,6 +81,10 @@ class HBNBCommand(cmd.Cmd):
         """EOF signal to exit the program."""
         print("")
         return True
+    
+    def emptyline(self):
+        """Empty commad"""
+        pass
 
     def do_create(self, arg):
         """Usage: create <class>
