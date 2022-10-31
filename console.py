@@ -49,7 +49,7 @@ class HBNBCommand(cmd.Cmd):
     }
 
     def emptyline(self):
-        """Do nothing upon receiving an empty line."""
+        """Empty commad"""
         pass
 
     def default(self, arg):
@@ -78,7 +78,7 @@ class HBNBCommand(cmd.Cmd):
         return True
 
     def do_EOF(self, arg):
-        """EOF signal to exit the program."""
+        """ End of file marker"""
         return True
 
     def do_create(self, arg):
